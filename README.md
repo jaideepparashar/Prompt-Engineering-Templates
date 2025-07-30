@@ -1,3 +1,6 @@
+![Prompt Engineering Templates](https://raw.githubusercontent.com/<jaideepparashar>/<Prompt-Engineering-Templates>/main/banner.png)
+
+
 # 🎯 Prompt Engineering Templates
 
 This repository offers a growing collection of ready-to-use prompt templates to help:
