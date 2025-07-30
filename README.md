@@ -1,4 +1,5 @@
-![Prompt Engineering Templates]([https://github.com/jaideepparashar/Prompt-Engineering-Templates/blob/main/Prompt%20Engineering%20Template.png])
+![Prompt Engineering Templates](https://raw.githubusercontent.com/<jaideepparashar>/<Prompt-Engineering-Templates>/main/banner.png)
+
 
 
 # 🎯 Prompt Engineering Templates
